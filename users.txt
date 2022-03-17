@@ -1,0 +1,21 @@
+userid: "xxxxx"
+username: "xxx"
+userpass: "xxxxx"
+phone: "xxxxx"
+destination: "xxxxxx"
+reason: "校外科研"
+school: "西土城"
+teacher_name: "xxx"
+teacher_uid: xxx
+teacher_number: "xxx"
+
+tutor_name: "xx"
+tutor_uid: xxx
+tutor_number: "xxxxxx"
+
+mail_host: "xxx"
+mail_user: "xxx"
+mail_pass: "xxx"
+sender: "xxx"
+receivers: ["xxx"]
+

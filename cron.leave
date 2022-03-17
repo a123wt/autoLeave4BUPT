@@ -1,0 +1,5 @@
+#!/bin/bash
+
+
+date '+%Y-%m-%d %H:%M:%S' >> /root/scripts/leave/log.log
+/usr/local/bin/python3 路径/leave.py 1>>路径/log.log 2>>路径/error.log
