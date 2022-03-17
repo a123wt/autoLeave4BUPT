@@ -1,6 +1,6 @@
 # BUPT自动申请临时出入校脚本
 
-参考https://github.com/OhYee/bupt-scripts/blob/master/leave。
+参考https://github.com/OhYee/bupt-scripts/blob/master/leave
 
 由于改动比较大且对git使用不熟悉，就没有采用建立分支的方式。
 
